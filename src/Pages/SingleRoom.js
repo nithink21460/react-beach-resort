@@ -71,6 +71,7 @@ const SingleRoom = () => {
         </div>
       </section>
 
+
       <section className="room-extras">
         <h6>extras:</h6>
         <ul className="extras">
